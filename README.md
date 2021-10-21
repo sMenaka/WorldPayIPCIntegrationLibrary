@@ -1,2 +1,2 @@
-# WorldPayIPCIntefrationLibrary
+# WorldPayIPCIntegrationLibrary
 Payment gateway integration.
